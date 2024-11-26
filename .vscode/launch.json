@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/main.py",
+            "console": "integratedTerminal",
+            "args": [
+                "--spider","netease",
+                // "--category", "旅游",
+                "--file","sohu.csv"
+            ], // 这里传递命令行参数
+            "cwd": "${workspaceFolder}" // 当前工作目录，确保文件路径正确
+        }
+    ]
+}

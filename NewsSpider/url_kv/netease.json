@@ -1,0 +1,60 @@
+{
+    "新闻": {
+        "要闻": "http://news.163.com/special/cm_yaowen20200213{}/",
+        "国内": "https://news.163.com/special/cm_guonei{}/",
+        "国际": "https://news.163.com/special/cm_guoji{}/",
+        "军事": "https://news.163.com/special/cm_war{}/",
+        "航空": "https://news.163.com/special/cm_hangkong{}/"
+    },
+    "体育": {
+        "体育要闻": "https://sports.163.com/special/000587PR/newsdata_n_index{}/.js",
+        "国际足球": "https://sports.163.com/special/000587PN/newsdata_n_index{}/.js",
+        "国内足球": "https://sports.163.com/special/000587PN/newsdata_world_index{}/.js",
+        "CBA": "https://sports.163.com/special/000587PL/newsdata_cba_index{}/.js",
+        "体育综合": "https://sports.163.com/special/000587PQ/newsdata_allsports_index{}/.js",
+        "奥运": "https://sports.163.com/special/00059DVU/aoyun2024_ayindex{}/.js"
+    },
+    "娱乐": {
+        "娱乐": "https://ent.163.com/special/000380VU/newsdata_index{}/.js",
+        "电影": "https://ent.163.com/special/000381Q1/newsdata_movieidx{}/.js",
+        "电视": "https://ent.163.com/special/000381P3/newsdata_tv_indexs{}/.js",
+        "音乐": "https://news.163.com/special/0001A1RO/music2022_datalist_index{}.js"
+    },
+    "财经": {
+        "股票": "https://money.163.com/special/00259K2L/data_stock_redian{}.js",
+        "商业": "https://money.163.com/special/002557RF/data_idx_shangye{}.js",
+        "基金": "https://money.163.com/special/00259D2D/fund_newsflow_hot{}.js"
+    },
+    "科技": {
+        "科技": "https://tech.163.com/special/00097UHL/tech_datalist{}.js",
+        "智能": "https://tech.163.com/special/00097UHL/smart_datalist{}.js",
+        "游戏": "https://tech.163.com/special/00099BPN/game_newsdata_all{}.js",
+        "数码": "https://digi.163.com/special/index_datalist{}.js",
+        "家电": "https://digi.163.com/special/0016980K/home_appliance_datalist{}.js",
+        "手机": "https://mobile.163.com/special/index_datalist{}.js"
+    },
+    "生活": {
+        "女性": "https://lady.163.com/special/00264OOD/data_nd_fashion{}.js",
+        "时尚": "https://fashion.163.com/special/002688FE/fashion_datalist{}.js"
+    },
+    "教育": {
+        "教育": "https://edu.163.com/special/002987KB/newsdata_edu_hot{}.js",
+        "留学": "https://edu.163.com/special/0029881L/datalist_liuxue{}.js",
+        "高考": "https://edu.163.com/special/0029881L/datalist_gaokao{}.js",
+        "商学院": "https://edu.163.com/special/0029881L/datalist_bschool{}.js"
+    },
+    "旅游": {
+        "旅游": "https://travel.163.com/special/00067VEJ/newsdatas_travel{}.js"
+    },
+    "房产": {
+        "房产": "https://house.163.com/special/000798MM/bj_float_yaowen{}.js",
+        "买房攻略": "https://house.163.com/special/000798MM/bj_float_gonglue{}.js",
+        "地产壹线": "https://house.163.com/special/000798MM/bj_float_yixian{}.js"
+    },
+    "家居": {
+        "家居": "https://home.163.com/special/001098KJ/home_float_index{}.js",
+        "原创": "https://home.163.com/special/001098KJ/home_float_yuanchuang{}.js",
+        "设计": "https://home.163.com/special/001098KJ/home_float_design{}.js",
+        "报道": "https://home.163.com/special/001098KJ/home_float_report{}.js"
+    }
+}
